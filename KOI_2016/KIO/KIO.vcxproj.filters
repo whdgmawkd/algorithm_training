@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\basicSearch">
+      <UniqueIdentifier>{ddb62d20-37ab-4e0f-ae77-f28727f896b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\p77">
+      <UniqueIdentifier>{6ca1cf70-f46a-457a-ad2d-500d4aa267db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\p107">
+      <UniqueIdentifier>{50b45c2b-fe17-4ede-9888-9ebccef31a21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\p258">
+      <UniqueIdentifier>{ca01709d-b1f3-406d-800d-d2c280eb9a78}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="basicSearch\01.cpp">
+      <Filter>Source Files\basicSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="basicSearch\02.cpp">
+      <Filter>Source Files\basicSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="basicSearch\03.cpp">
+      <Filter>Source Files\basicSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="basicSearch\04.cpp">
+      <Filter>Source Files\basicSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="basicSearch\05.cpp">
+      <Filter>Source Files\basicSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="p77\01.cpp">
+      <Filter>Source Files\p77</Filter>
+    </ClCompile>
+    <ClCompile Include="p77\02.cpp">
+      <Filter>Source Files\p77</Filter>
+    </ClCompile>
+    <ClCompile Include="p77\03.cpp">
+      <Filter>Source Files\p77</Filter>
+    </ClCompile>
+    <ClCompile Include="p77\04.cpp">
+      <Filter>Source Files\p77</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\01.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\02.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\03.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\04.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\05.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\06.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\07.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\08.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\09.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\10.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\11.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\12.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\13.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\14.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\15.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\16.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\17.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\18.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\19.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\20.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\21.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\22.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\23.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\24.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\25.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\26.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p107\27.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="28.cpp">
+      <Filter>Source Files\p107</Filter>
+    </ClCompile>
+    <ClCompile Include="p258\01.cpp">
+      <Filter>Source Files\p258</Filter>
+    </ClCompile>
+    <ClCompile Include="p258\02.cpp">
+      <Filter>Source Files\p258</Filter>
+    </ClCompile>
+    <ClCompile Include="p258\03.cpp">
+      <Filter>Source Files\p258</Filter>
+    </ClCompile>
+    <ClCompile Include="p258\04.cpp">
+      <Filter>Source Files\p258</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
